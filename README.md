@@ -1,6 +1,8 @@
 Symfony Demo Application
 ========================
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/symfony-demo)
+
 The "Symfony Demo Application" is a reference application created to show how
 to develop applications following the [Symfony Best Practices][1].
 
