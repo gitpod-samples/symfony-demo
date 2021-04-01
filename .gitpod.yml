@@ -5,3 +5,8 @@ ports:
 tasks:
   - init: composer update
     command: php -S 0.0.0.0:8000 -t public/
+
+vscode:
+  extensions:
+    - felixfbecker.php-debug
+    - bmewburn.vscode-intelephense-client
